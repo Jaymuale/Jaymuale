@@ -1,4 +1,4 @@
-## Hi there 👋
+## 동해물과 백두산이 마르고 닳도록
 
 <!--
 **Jaymuale/Jaymuale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
